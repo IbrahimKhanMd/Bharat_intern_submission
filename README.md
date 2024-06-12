@@ -1,5 +1,5 @@
 # Bharat_intern_submission
-Repository for maintaining working codes of Bharat internship
+
 My Web Development Projects
 ✨ Proud to unveil my latest web development project on GitHub – a captivating Netflix Clone homepage built with HTML and CSS! 💻🎉 Dive into the codebase to explore clean and responsive design, showcasing the power of front-end technologies. Join me on this coding adventure! #WebDevelopment #HTML #CSS #NetflixClone 🔧
 
